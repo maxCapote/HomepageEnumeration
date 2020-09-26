@@ -12,3 +12,5 @@
   * SSL info
     * https://stackoverflow.com/questions/45810069/how-to-fetch-the-ssl-certificate-value-whether-its-expired-or-not/52298575
     * https://stackoverflow.com/questions/30862099/how-can-i-get-certificate-issuer-information-in-python
+* Other notes
+  * The current version has only been tested in Windows and works only within PowerShell
